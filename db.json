@@ -1,4 +1,7 @@
 {
+  "singin": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiVHJpIExlIiwiaWF0IjoxNTE2MjM5MDIyfQ.HfuDrEeK6onvN3JA7jwzbwZrEdrDfHXzqDADJLK50jk"
+  },
   "people": [
     {
       "id": 1,
